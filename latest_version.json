@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.0",
   "download_url": "https://github.com/akash-0701/Kredo-Updates/releases/download/v1.0.1/Kredo_GST_Setup.exe",
   "release_notes": "Bug Fixes:\n- Fixed data path reload issue\n- Improved network sync stability\n\nNew Features:\n- Added automatic update checker\n- Enhanced settings page UI",
   "release_date": "2025-10-03",
   "file_size": "~50 MB",
   "is_mandatory": false
 }
+
